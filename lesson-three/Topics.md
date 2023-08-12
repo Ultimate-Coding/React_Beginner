@@ -11,7 +11,7 @@ JSX is a syntax extension for JavaScript that lets you write HTML-like markup in
 1. Return a single root element:
    If you don’t want to add an extra <div> to your markup, you can write <> and </> instead, which is called a Fragment.
 
-** Reason: JSX is transformed into plain JavaScript objects and you can’t return two objects from a function without wrapping them into an array, so we need to wrap them into another tag or a Fragment**
+*** Reason: JSX is transformed into plain JavaScript objects and you can’t return two objects from a function without wrapping them into an array, so we need to wrap them into another tag or a Fragment***
 
 2. Close all the tags:
 
