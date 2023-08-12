@@ -4,7 +4,7 @@ In the previous lesson, we keep multiple components in the same file. This is co
 
 ## How does React know that you are referring to an HTML tag or a component?
 
-We said earlier that a React component name must begin with a capital letter, so If we render <section>....</section>, React knows we refer to an HTML tag. If we render **<Section>**....</Section>, React knows that we want to use our component called Section
+We said earlier that a React component name must begin with a capital letter, so If we render <section></section>, React knows we refer to an HTML tag. If we render <Section></Section>, React knows that we want to use our component called Section
 
 ## Important Note:
 
