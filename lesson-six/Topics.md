@@ -32,7 +32,7 @@ For subsequent renders, React will call the function component whose state updat
 
 After rendering is done and React updated the DOM, the browser will repaint the screen.
 
-**Two Important notes**
+**Two Important notes:**
 
 - Variables and event handlers don’t “survive” re-renders. Every render has its own event handlers
 
